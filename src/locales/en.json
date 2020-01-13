@@ -1,0 +1,182 @@
+{
+    "dashboard": {
+        "dash": "Dashboard",
+        "newUsers": "New Users",
+        "sales": "Sales",
+        "newOrders": "New Orders",
+        "posts": "Posts"
+    },
+    "header": {
+        "mainMenu": "MAIN MENU",
+        "dashboard": "Dashboard",
+        "visaManagement": "Visa Management",
+        "feeServices": "Fee & Services",
+        "countryPrice": "Country & Price",
+        "expressServices": "Express Services",
+        "addOn": "Add on",
+        "account": "Users"
+    },
+    "visaList": {
+        "visaManagement": "Visa Management",
+        "listOfVisas": "List of Visa Applications",
+        "payment": {
+            "paymentStatus": "Payment Status",
+            "paid": "Paid",
+            "unpaid": "Unpaid"
+        },
+        "status": [
+            
+            {
+                "name": "New",
+                "value": "new",
+                "status": "0"
+            },
+            {
+                "name": "Needs Adjustment",
+                "value": "needAdjustment",
+                "status": "1"
+            },
+            {
+                "name": "Pending Approval",
+                "value": "pendingApproval",
+                "status": "2"
+            },
+            {
+                "name": "Needs More Information",
+                "value": "needInfo",
+                "status": "3"
+            },
+            {
+                "name": "Approved",
+                "value": "approved",
+                "status": "4"
+            },
+            {
+                "name": "Rejected",
+                "value": "rejected",
+                "status": "5"
+            }
+        ],
+        "submit": "Submit",
+        "search": "Search",
+        "exportExcel": "Export Excel",
+        "row1": {
+            "code": "Code",
+            "customer": "Customer",
+            "fullName": "Full Name",
+            "visaType": "Visa Type",
+            "regDate": "Registration Date",
+            "pay": "Pay",
+            "status": "Status",
+            "manipulation": "Actions"
+        }
+    },
+    "visaDetail": {
+        "visaAppDetails": "Visa Application Details",
+        "back": "Back",
+        "please": "Please review your visa application details !",
+        "table1": {
+            "visaType": "Type of visa",
+            "duration": "Visa Duration",
+            "purpose": "Purpose of entry",
+            "entry": "Entry date",
+            "exit": "Exit date",
+            "arrival": "Arrival airport"
+        },
+        "passportDetails": "Passport Details",
+        "table2": {
+            "fullName": "Full Name",
+            "gender": "Gender",
+            "dob": "Date of birth",
+            "nationality": "Nationality",
+            "passportNo": "Passport number",
+            "expiry": "Expiry date",
+            "image": "Image"
+        },
+        "serviceFees": "Service Fees",
+        "table3": {
+            "type": "Type of service",
+            "quantity": "Quantity",
+            "unitPrice": "Unit price",
+            "totalFee": "Total fee"
+        },
+        "contactInfo": "Contact Information",
+        "table4": {
+            "name": "Full name",
+            "email": "Email",
+            "phone": "Phone",
+            "note": "Note"
+        }
+    },
+    "countryList": {
+        "countryPrice": "Country & Price",
+        "name": "Country Name",
+        "flag": "Flag",
+        "code": "Code",
+        "timezone": "TimeZone",
+        "action": "Action"
+    },
+    "countryDetail": {
+        "name": "Name",
+        "code": "Code",
+        "countryNotice": "Notice after selecting country",
+        "visaType": "Visa Type",
+        "visaFee": "Visa Fee",
+        "table1": {
+            "name": "Name",
+            "serviceFee" : "serviceFee" ,
+            "businessFee": "Business Fee",
+            "touristFee": "Tourist Fee",
+            "stampFee": "Stamp Fee",
+            "active": "Active"
+        },
+        "visaNotice": "Notice after choosing visa",
+        "language": "Language",
+        "save": "Save",
+        "update": "Update"
+    },
+    "expressServices": {
+        "express": "Express Services",
+        "addNew": "Add New",
+        "name": "Name",
+        "price": "Price",
+        "visaType": "Visa Type",
+        "status": "Status",
+        "initiateDate": "Initiated Date",
+        "action": "Action",
+        "back": "Back",
+        "update": {
+            "language": "Language",
+            "updateService": "Update Express Service",
+            "serviceName": "Service Name",
+            "notice": "Notice",
+            "addService": "Add New Express Service"
+        },
+        "updateBtn": "Update",
+        "add": "Add"
+    },
+    "addOn": {
+        "add": "Add On",
+        "back": "Back",
+        "language": "Language",
+        "visaType": "Visa Type"
+    },
+    "account": {
+        "acc": "List of Users",
+        "addNew": "Add New",
+        "decentralization": "Decentralization",
+        "status": "Status",
+        "manipulation": "Actions",
+        "back": "Back",
+        "editUser": {
+            "accountInfo": "Users Information",
+            "role": "Role",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "password": "Password",
+            "retype": "Retype Password",
+            "update": "Update"
+        }
+    },
+    "footer": "All Rights Reserved"
+}

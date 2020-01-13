@@ -1,0 +1,79 @@
+.container {
+    padding: 0rem 2rem 1.5rem 2rem;
+}
+
+ .breadcrumb-extra {
+    margin-top: 1.2rem;
+    margin-bottom: 2rem;
+    background-color: white;
+    padding: .50rem 1rem !important;
+}
+
+.home-mr {
+    margin-right: 0.4rem;
+}
+
+ .dashboard {
+    line-height: 1.3;
+}
+
+.panel {
+    border: none;
+    box-shadow: none;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.symbol {
+    width: 40%;
+    padding: 25px 15px;
+    border-radius: 4px 0px 0px 4px;
+}
+
+.state-overview .symbol, .state-overview .value {
+    display: inline-block;
+    text-align: center;
+}
+
+.state-overview .symbol i {
+    color: #fff;
+    font-size: 50px;
+}
+
+.state-overview .value {
+    float: right;
+    width: 58%;
+    padding-top: 21px;
+}
+
+.state-overview .value h1 {
+    font-weight: 300;
+}
+
+.state-overview .value h1, .state-overview .value p {
+    margin: 0;
+    padding: 0;
+    color: #c6cad6;
+}
+
+.turquoise {
+    background: #6ccac9;
+}
+
+.red {
+    background: #ff6c60;
+}
+
+.yellow {
+    background: #f8d347;
+}
+
+.blue {
+    background: #57c8f2;
+}
+
+@media (min-width: 1200px){
+.container {
+    max-width: 1700px;
+}
+}

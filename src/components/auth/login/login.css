@@ -1,0 +1,11 @@
+
+.brand_logo {
+  width: 100px;
+  margin-bottom: 10px;
+}
+.forgetpass{
+  margin-top: 0.5rem;
+  cursor: pointer;
+  color: #9a9a9a!important;
+  font-weight: 700;
+}

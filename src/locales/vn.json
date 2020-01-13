@@ -1,0 +1,182 @@
+{
+    "dashboard": {
+        "dash": "Bảng điều khiển",
+        "newUsers": "Người dùng mới",
+        "sales": "Bán hàng",
+        "newOrders": "Đơn hàng mới",
+        "posts": "Bài viết"
+    },
+    "header": {
+        "mainMenu": "THỰC ĐƠN CHÍNH",
+        "dashboard": "Bảng điều khiển",
+        "visaManagement": "Quản lý thị thực",
+        "feeServices": "Phí & Dịch vụ",
+        "countryPrice": "Quốc gia & giá",
+        "expressServices": "Dịch vụ chuyển phát nhanh",
+        "addOn": "Thêm vào",
+        "account": "Tài khoản"
+    },
+    "visaList": {
+        "visaManagement": "Quản lý thị thực",
+        "listOfVisas": "Danh sách các đơn xin thị thực",
+        "payment": {
+            "paymentStatus": "Tình trạng thanh toán",
+            "paid": "Đã thanh toán",
+            "unpaid": "Không trả tiền"
+        },
+        "status": [
+            
+            {
+                "name": "Mới",
+                "value": "new",
+                "status": "0"
+            },
+            {
+                "name": "Điều chỉnh nhu cầu",
+                "value": "needAdjustment",
+                "status": "1"
+            },
+            {
+                "name": "Chờ phê duyệt",
+                "value": "pendingApproval",
+                "status": "2"
+            },
+            {
+                "name": "Cần thêm thông tin",
+                "value": "needInfo",
+                "status": "3"
+            },
+            {
+                "name": "Tán thành",
+                "value": "approved",
+                "status": "4"
+            },
+            {
+                "name": "Từ chối",
+                "value": "rejected",
+                "status": "5"
+            }
+        ],
+        "submit": "Gửi đi",
+        "search": "Gửi đi",
+        "exportExcel": "Xuất Excel",
+        "row1": {
+            "code": "Mã",
+            "customer": "Khách hàng",
+            "fullName": "Họ và tên",
+            "visaType": "Loại thị thực",
+            "regDate": "Ngày đăng kí",
+            "pay": "Trả",
+            "status": "Trạng thái",
+            "manipulation": "Thao tác"
+        }
+    },
+    "visaDetail": {
+        "visaAppDetails": "Chi tiết hồ sơ xin visa",
+        "back": "Trở lại",
+        "please": "Vui lòng xem lại chi tiết đơn xin thị thực của bạn!",
+        "table1": {
+            "visaType": "Loại visa",
+            "duration": "Thời hạn visa",
+            "purpose": "Mục đích ban đầu",
+            "entry": "Ngày nhập",
+            "exit": "Ngày xuất cảnh",
+            "arrival": "Sân bay đến"
+        },
+        "passportDetails": "Chi tiết hộ chiếu",
+        "table2": {
+            "fullName": "Họ và tên",
+            "gender": "Giới tính",
+            "dob": "Ngày sinh",
+            "nationality": "Quốc tịch",
+            "passportNo": "Số hộ chiếu",
+            "expiry": "Ngày hết hạn",
+            "image": "Hình ảnh"
+        },
+        "serviceFees": "Phí dịch vụ",
+        "table3": {
+            "type": "Loại dịch vụ",
+            "quantity": "Số lượng",
+            "unitPrice": "Đơn giá",
+            "totalFee": "Tổng phí"
+        },
+        "contactInfo": "Thông tin liên lạc",
+        "table4": {
+            "name": "Họ và tên",
+            "email": "E-mail",
+            "phone": "Điện thoại",
+            "note": "chú thích"
+        }
+    },
+    "countryList": {
+        "countryPrice": "Quốc gia & giá",
+        "name": "Tên quốc gia",
+        "flag": "Cờ",
+        "code": "Mã",
+        "timezone": "Múi giờ",
+        "action": "Hoạt động"
+    },
+    "countryDetail": {
+        "name": "Họ và tên",
+        "code": "Mã",
+        "countryNotice": "Thông báo sau khi chọn quốc gia",
+        "visaType": "Loại thị thực",
+        "visaFee": "Phí thị thực",
+        "table1": {
+            "name": "Họ và tên",
+            "serviceFee" : " Phí dịch vụ " ,
+            "businessFee": "Phí kinh doanh",
+            "touristFee": "Phí du lịch",
+            "stampFee": "Phí tem",
+            "active": "Hoạt động"
+        },
+        "visaNotice": "Thông báo sau khi chọn visa",
+        "language": "Ngôn ngữ",
+        "save": "Tiết kiệm",
+        "update": "Cập nhật"
+    },
+    "expressServices": {
+        "express": "Dịch vụ chuyển phát nhanh",
+        "addNew": "Thêm mới",
+        "name": "Họ và tên",
+        "price": "Giá bán",
+        "visaType": "Loại thị thực",
+        "status": "Trạng thái",
+        "initiateDate": "Ngày bắt đầu",
+        "action": "Hoạt động",
+        "back": "Trở lại",
+        "update": {
+            "language": "Ngôn ngữ",
+            "updateService": "Cập nhật dịch vụ chuyển phát nhanh",
+            "serviceName": "Tên dịch vụ",
+            "notice": "Để ý",
+            "addService": "Thêm dịch vụ chuyển phát nhanh mới"
+        },
+        "updateBtn": "Cập nhật",
+        "add": "Thêm vào"
+    },
+    "addOn": {
+        "add": "Thêm vào",
+        "back": "Trở lại",
+        "language": "Ngôn ngữ",
+        "visaType": "Loại thị thực"
+    },
+    "account": {
+        "acc": "Danh sách tài khoản",
+        "addNew":"Thêm mới",
+        "decentralization": "Phân cấp",
+        "status": "Trạng thái",
+        "manipulation": "Thao tác",
+        "back":"Trở lại",
+        "editUser": {
+            "accountInfo": "Thông tin tài khoản",
+            "role": "Vai trò",
+            "firstName": "Tên đầu tiên",
+            "lastName": "Họ",
+            "password": "Mật khẩu",
+            "retype": "Gõ lại mật khẩu",
+            "update": "Cập nhật"
+        }
+    },
+    "footer": "Đã đăng ký Bản quyền"
+}

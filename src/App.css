@@ -1,0 +1,64 @@
+.modal-content{
+    width: 400px;
+    background: #ffffff;
+}
+.modal-footer {
+    padding: 19px 20px 20px;
+    margin-top: 15px;
+    text-align: right;
+    border-top: 1px solid #e5e5e5;
+}
+#modal-header {
+    background: #00A8B3;
+    color: #fff;
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    border-bottom: none;
+    min-height: 16.428571429px;
+    padding: 15px;
+}
+.close-btn{
+    background-color: #bec3c7;
+    border-color: #bec3c7;
+    color: #fff;
+}
+#order-change-status {
+    background-color: #41cac0;
+    border-color: #41cac0;
+    color: #FFFFFF;
+}
+.label-danger {
+    background-color: #FF6C60;
+    color:#fff;
+    padding: 0.5em 0.8em;
+}
+.label-default {
+    background-color: #a1a1a1;
+    color: #fff;
+    padding: 0.5em 0.8em;
+}
+.label-success {
+    background-color: #A9D86E;
+}
+
+.label-success {
+    background-color: #A9D86E;
+}
+.label {
+    padding: 0.5em 0.8em;
+}
+.label-success {
+    background-color: #5cb85c;
+}
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
